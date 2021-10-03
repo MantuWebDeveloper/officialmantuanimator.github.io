@@ -1,0 +1,25 @@
+
+.btn{
+    font-family: sans-serif;
+    color: #fbfcfd;
+    background: transparent;
+    outline: none;
+    border: 1px solid #ffff;
+    background-color: transparent;
+    font-size: 1.5em;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+    border: 2px solid;
+    border-radius: 50px;
+    height: 10vh;
+    width: 52vh;
+    font-family: sans-serif;
+    font-size: 15px;
+    position: relative;
+    left: 1%;
+}
+h1, h2, h3{
+    font-family: sans-serif;
+    color: cyan;
+    
+}
